@@ -1,0 +1,13 @@
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\bin\Debug\netcoreapp3.1\Command Line Task Manager.exe
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\bin\Debug\netcoreapp3.1\Command Line Task Manager.deps.json
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\bin\Debug\netcoreapp3.1\Command Line Task Manager.runtimeconfig.json
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\bin\Debug\netcoreapp3.1\Command Line Task Manager.runtimeconfig.dev.json
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\bin\Debug\netcoreapp3.1\Command Line Task Manager.dll
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\bin\Debug\netcoreapp3.1\Command Line Task Manager.pdb
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\obj\Debug\netcoreapp3.1\Command Line Task Manager.csprojAssemblyReference.cache
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\obj\Debug\netcoreapp3.1\Command Line Task Manager.AssemblyInfoInputs.cache
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\obj\Debug\netcoreapp3.1\Command Line Task Manager.AssemblyInfo.cs
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\obj\Debug\netcoreapp3.1\Command Line Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\obj\Debug\netcoreapp3.1\Command Line Task Manager.dll
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\obj\Debug\netcoreapp3.1\Command Line Task Manager.pdb
+C:\Users\Laptop Market\source\repos\Command Line Task Manager\obj\Debug\netcoreapp3.1\Command Line Task Manager.genruntimeconfig.cache
